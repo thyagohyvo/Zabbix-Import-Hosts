@@ -1,0 +1,7 @@
+hostname,ip,group,template,community
+SW-TESTE01,10.10.0.1,SW,Template Module ICMP Ping,public
+SW-TESTE02,10.10.0.1,SW,Template Module ICMP Ping,public
+SW-TESTE03,10.10.0.1,SW,Template Module ICMP Ping,public
+SW-TESTE04,10.10.0.1,SW,Template Module ICMP Ping,public
+SW-TESTE05,10.10.0.1,SW,Template Module ICMP Ping,public
+SW-TESTE06,10.10.0.1,SW,Template Module ICMP Ping,public
