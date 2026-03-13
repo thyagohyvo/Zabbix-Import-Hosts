@@ -281,3 +281,4 @@ Uso livre para fins educacionais e automação de ambientes de monitoramento.
 Projeto desenvolvido para automação de monitoramento no **Zabbix**, utilizando Python e API oficial.
 
 Se este projeto te ajudou, considere ⭐ o repositório.
+www.linkedin.com/in/thyago-hyvo
